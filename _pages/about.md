@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am Ph.D. candidate in the Department of Government at Harvard University. In 2022-23, I was a [USIP-Minerva Peace and Security Scholar](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) and a recipient of an [APSA-NSF dissertation grant](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/). I will be on the academic job market in 2024-2025. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
+I am Ph.D. candidate in the Department of Government at Harvard University. In 2022-23, I was a <a href="https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program" target="_blank">USIP-Minerva Peace and Security Scholar</a> and a recipient of an <a href="https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/" target="_blank">APSA-NSF dissertation grant</a>. I will be on the academic job market in 2024-2025. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
 
 I am a comparativist with a regional focus on Latin America. My dissertation examines what I call *criminal electioneering*---deliberate efforts by criminal groups to influence elections---in Central America and Mexico. In other ongoing work, I explore causes of regime stability and change. You can read more about my research and publications [here]({{ base_path }}/research). 
 

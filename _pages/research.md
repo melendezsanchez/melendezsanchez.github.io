@@ -8,7 +8,8 @@ author_profile: true
 
 I study challenges to democratic institutions in developing contexts. In one set of projects---including my dissertation--I explore the consequences of organized crime and criminal violence for democracy. In another set of projects, I explore other factors that shape democratic stability, backsliding, and breakdown. You can find a list of publication and ongoing projects below.
 
-My research has been supported by grants and fellowships from the [American Political Science Association/NSF](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/past-grantees/2022-ddri-grantees/), [the US Institute of Peace](https://www.usip.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/), as well as by the [David Rockfeller Center for Latin American Studies](https://drclas.harvard.edu/), the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), and the [Weatherhead Center for International Affairs](https://wcfia.harvard.edu/) at Harvard.
+My research has been supported by grants and fellowships from the <a href="https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/past-grantees/2022-ddri-grantees/" target="_blank">American Political Science Association/NSF</a>, the <a href="https://www.usip.org/" target="_blank">US Institute of Peace</a>, and the <a href="https://weissfund.uchicago.edu/" target="_blank">Weiss Fund for Research in Development Economics</a>, as well as by the <a href="https://drclas.harvard.edu/" target="_blank">David Rockfeller Center for Latin American Studie</a>, the <a href="https://www.iq.harvard.edu/" target="_blank">Institute for Quantitative Social Science</a>, and the <a href="https://wcfia.harvard.edu/" target="_blank">Weatherhead Center for International Affairs</a>
+ at Harvard.
 
 ## Publications
 

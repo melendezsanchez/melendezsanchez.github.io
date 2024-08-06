@@ -23,10 +23,10 @@ Watch for Creeping Corruption and Authoritarianism</a> (with <a href="https://sc
 **Podcasts**   
 - <a href="https://www.americasquarterly.org/article/aq-podcast-the-bukele-model-why-its-hard-to-replicate/" target="_blank">The Bukele Model: Why It's Hard to Replicate</a>, The Americas Quarterly Podcast, July 11, 2024. 
 - <a href="https://open.spotify.com/episode/2ZsEvBI1YL0xRDzp7e1Ka2?si=35968bfc1c734f79" target="_blank">La democracia tambalea en la región</a>, Tan/Gente Podcast, May 27, 2024. 
-- <a href="https://hopkinspofa.com/2023/10/19/2023-guatemalan-elections-democratic-spring-or-winter/">2023 Guatemalan Elections: Democratic Spring or Winter?</a>, Hopkins Podcast on Foreign Affairs, October 19, 2023.
-- <a href="https://podcast.ausha.co/the-latinnews-podcast-3/who-is-the-real-nayib-bukele-president-of-el-salvador">Who is the Real Nayib Bukele, President of El Salvador?</a>, The LatinNews Podcast, October 10, 2023.
-- <a href="https://www.lawfaremedia.org/article/the-lawfare-podcast-an-earthshaking-election-in-guatemala">An Earthshaking Election in Guatemala</a>, The Lawfare Podcast, August 28, 2023.
-- <a href="https://www.lawfaremedia.org/article/the-lawfare-podcast-el-salvador-s-president-cracks-down-on-gangs-and-democracy">El Salvador’s President Cracks Down on Gangs—and Democracy</a>, The Lawfare Podcast, May 9, 2023.
+- <a href="https://hopkinspofa.com/2023/10/19/2023-guatemalan-elections-democratic-spring-or-winter/" target="_blank">2023 Guatemalan Elections: Democratic Spring or Winter?</a>, Hopkins Podcast on Foreign Affairs, October 19, 2023.
+- <a href="https://podcast.ausha.co/the-latinnews-podcast-3/who-is-the-real-nayib-bukele-president-of-el-salvador" target="_blank">Who is the Real Nayib Bukele, President of El Salvador?</a>, The LatinNews Podcast, October 10, 2023.
+- <a href="https://www.lawfaremedia.org/article/the-lawfare-podcast-an-earthshaking-election-in-guatemala" target="_blank">An Earthshaking Election in Guatemala</a>, The Lawfare Podcast, August 28, 2023.
+- <a href="https://www.lawfaremedia.org/article/the-lawfare-podcast-el-salvador-s-president-cracks-down-on-gangs-and-democracy" target="_blank">El Salvador’s President Cracks Down on Gangs—and Democracy</a>, The Lawfare Podcast, May 9, 2023.
 
 
 

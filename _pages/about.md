@@ -15,6 +15,10 @@ I am a comparativist with a regional focus on Latin America. My dissertation exa
 
 I have taught courses on the politics of organized crime, Central American and Latin American politics, authoritarianism, comparative politics, formal theory, and mixed methods. You can find more information about my teaching [here]({{ base_path }}/teaching). 
 
-You can find my general-audience commentary and analysis of Central American politics [here]({{ base_path }}/commentary). I have also consulted for the [World Bank](https://www.worldbank.org/en/home) and for the United States Agency for International Development ([USAID](https://www.usaid.gov/)) through [NORC](https://www.norc.org/Pages/default.aspx) on projects related to strengthening democratic institutions in the region.
+You can find my general-audience commentary and analysis of Central American politics [here]({{ base_path }}/commentary). I have also consulted for the <a href="https://www.worldbank.org/en/home" target="_blank">World Bank</a> and for the United States Agency for International Development (<a href="https://www.usaid.gov/" target="_blank">USAID</a>) through <a href="https://www.norc.org/" target="_blank">NORC</a> on projects related to strengthening democratic institutions in the region.
 
-I have an A.B. from [Harvard College](https://college.harvard.edu/) and an M.Sc. from [Oxford](https://www.politics.ox.ac.uk/), where I was a [Weidenfeld-Hoffmann Scholar](http://whtrust.org/) and a member of [St. Antony's College](https://www.sant.ox.ac.uk/). I was born and raised in San Salvador, El Salvador. 
+I have an A.B. from <a href="https://college.harvard.edu/" target="_blank">Harvard College</a> and an M.Sc. from <a href="https://www.politics.ox.ac.uk/" target="_blank">Oxford</a>, where I was a <a href="http://whtrust.org/" target="_blank">Weidenfeld-Hoffmann Scholar</a> and a member of <a href="https://www.sant.ox.ac.uk/" target="_blank">St. Antony's College</a>. I was born and raised in San Salvador, El Salvador. 
+
+
+
+

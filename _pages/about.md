@@ -13,7 +13,7 @@ I am Ph.D. candidate in the Department of Government at Harvard University. In 2
 
 I am a comparativist with a regional focus on Latin America. I study the causes of democratic durability, backsliding, and breakdown. Much of my work on these issues examines how organized crime and public insecurity undermine democratic institutions. 
 
-My dissertation examines one major threat to democracy in Central America and Mexico: deliberate efforts by criminal organizations to influence elections, or what I call *criminal electioneering*. You can read more about my research and publications [here]({{ base_path }}/research). 
+In my dissertation, I focus on one major threat to democracy in Central America and Mexico: deliberate efforts by criminal organizations to influence elections, or what I call *criminal electioneering*. You can read more about my research and publications [here]({{ base_path }}/research). 
 
 I have taught courses on the politics of organized crime, Central American and Latin American politics, authoritarianism, comparative politics, formal theory, and mixed methods. In 2021, I won the <a href="https://gsas.harvard.edu/news/manuel-melendez-sanchez-2021-derek-c-bok-award-citation." target="_blank">Derek C. Bok Award for Excellence in Graduate Student Teaching of Undergraduates</a>. You can find more information about my teaching [here]({{ base_path }}/teaching). 
 

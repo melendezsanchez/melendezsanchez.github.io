@@ -11,7 +11,7 @@ redirect_from:
 
 I am Ph.D. candidate in the Department of Government at Harvard University. In 2022-23, I was a <a href="https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program" target="_blank">USIP-Minerva Peace and Security Scholar</a> and a recipient of an <a href="https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/" target="_blank">APSA-NSF dissertation grant</a>. I am on the academic job market in 2024-25. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
 
-I am a comparativist with a regional focus on Latin America. I study the roots of democratic durability, backsliding, and breakdown. Much of my work on these issues examines how organized crime and public insecurity undermine democratic institutions. 
+I am a comparativist with a regional focus on Latin America. I study the roots of democratic resilience, backsliding, and breakdown. Much of my work on these issues examines how organized crime and public insecurity undermine democratic institutions. 
 
 In my dissertation, I focus on one major threat to democracy in Central America and Mexico: deliberate efforts by criminal organizations to influence elections, or what I call *criminal electioneering*. You can read more about my research and publications [here]({{ base_path }}/research). 
 

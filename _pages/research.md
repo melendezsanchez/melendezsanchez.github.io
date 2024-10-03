@@ -28,7 +28,7 @@ My research has been supported by grants and fellowships from the <a href="https
 ### On Organized Crime, Public Security, and Democracy
 - “Criminal Electioneering: A Conceptual Framework”
 - “When Do Criminal Groups Target Voters? Evidence from Guatemala”
-- “Re-Examining the Security vs Rights Tradeoff: Eidence from a Survey Experiment in Guatemala” 
+- “Re-Examining the Security vs Rights Tradeoff: Evidence from a Survey Experiment in Guatemala” 
 - “The Personnel Economics of Law Enforcement” (with <a href="https://www.matthewpecenco.com/" target="_blank">Matthew Pecenco</a> and <a href="https://cschmidtpadilla.github.io/
 " target="_blank">Carlos Schmidt-Padilla</a>)
 

@@ -7,9 +7,9 @@ author_profile: true
 {% include base_path %}
 
 **Op-Eds & Short Pieces**
-- <a href="https://www.journalofdemocracy.org/elections/how-the-worlds-most-popular-dictator-wins/" target="_blank">How the World’s Most Popular Dictator Wins</a>, Journal of Democracy Blog, February 5, 2024.  
+- <a href="https://www.journalofdemocracy.org/elections/how-the-worlds-most-popular-dictator-wins/" target="_blank">How the World’s Most Popular Dictator Wins</a>, Journal of Democracy Online, February 5, 2024.  
 - <a href="https://revista.drclas.harvard.edu/to-bloom-again-the-night-semilla-took-guatemala-by-surprise/" target="_blank">To Bloom Again: The Night Semilla Took Guatemala by Surprise</a>, ReVista: The Harvard Review of Latin America, November 2, 2023.
-- <a href="https://www.journalofdemocracy.org/online-exclusive/how-guatemalans-are-defending-their-democracy/" target="_blank">How Guatemalans Are Defending Their Democracy</a> (with <a href="https://lauragamboa.com/" target="_blank">Laura Gamboa</a>), Journal of Democracy Blog, October 25, 2023.
+- <a href="https://www.journalofdemocracy.org/online-exclusive/how-guatemalans-are-defending-their-democracy/" target="_blank">How Guatemalans Are Defending Their Democracy</a> (with <a href="https://lauragamboa.com/" target="_blank">Laura Gamboa</a>), Journal of Democracy Online, October 25, 2023.
 - <a href="https://dialogos.org.gt/como-se-negocia-una-transicion-democratica/" target="_blank">¿Cómo se negocia una transición democrática?</a> (with <a href="https://scholar.harvard.edu/levitsky/home" target="_blank">Steven Levitsky</a>), Diálogos, October 11, 2023. Also published in <a href="https://www.plazapublica.com.gt/ensayo/articulo/como-se-negocia-una-transicion-democratica" target="_blank">Plaza Pública</a>.
 - <a href="https://elfaro.net/en/202308/opinion/26970/in-the-august-20-election-guatemalan-democracy-is-on-the-line" target="_blank">In the August 20 Election, Guatemalan Democracy is
 on the Line</a> (with <a href="https://sites.google.com/view/lucasperello/" target="_blank">Lucas Perelló</a>), El Faro, August 8, 2023. 

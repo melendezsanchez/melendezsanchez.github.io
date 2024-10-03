@@ -37,7 +37,7 @@ My research has been supported by grants and fellowships from the <a href="https
 - "Far-Right by Convenience: El Salvador's Nayib Bukele" (book chapter)
 - “Democracy and Authoritarianism in Central America” (volume co-edited with <a href="https://scholar.harvard.edu/levitsky/home" target="_blank">Steven Levitsky</a>)
 - “Political Establishments and Democracy” (with <a href="https://scholar.harvard.edu/levitsky/home" target="_blank">Steven Levitsky</a>, <a href="https://scholar.harvard.edu/awatanabe/home" target="_blank">Aaron Watanabe</a>, and <a href="https://scholar.harvard.edu/dziblatt/home" target="_blank">Daniel Ziblatt</a>)
-- “Democratization, Elite Collusion, and Authoritarian Enclaves: The Case of Guatemala”” (with <a href="https://sites.google.com/view/lucasperello/" target="_blank">Lucas Perelló</a>)
+- “Backsliding by Elite Collusion: Authoritarianism and Democratic Resurgence in Guatemala” (with <a href="https://sites.google.com/view/lucasperello/" target="_blank">Lucas Perelló</a>)
 
 ## Reports
 - "<a href="{{ base_path }}/files/ebert.pdf" target="_blank">The Far-Right in El Salvador</a>." Prepared for the <a href="https://dc.fes.de/about/friedrich-ebert-stiftung.html" target="_blank">Friedrich Ebert Foundation</a>, 2023.  

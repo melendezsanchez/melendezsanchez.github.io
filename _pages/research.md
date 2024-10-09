@@ -23,7 +23,7 @@ My research has been supported by grants and fellowships from the <a href="https
 - "<a href="{{ base_path }}/files/szd_review.pdf" target="_blank">Review of 'Violent Victors: Why Bloodstained Parties Win Postwar Elections' by Sarah Zukerman Daly</a>," *Peace & Change* 49(2), 201-203. 2024. 
 - "<a href="{{ base_path }}/files/newsletter.pdf" target="_blank">Lessons from El Salvador's Authoritarian Turn</a>," *Democracy and Autocracy Newsletter* 20(2), 13-18. 2022. 
 
-## Work in Progress
+## Under Review and Work in Progress
 
 ### On Organized Crime, Public Security, and Democracy
 - “Criminal Electioneering: A Conceptual Framework”

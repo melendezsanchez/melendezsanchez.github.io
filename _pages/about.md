@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am Ph.D. candidate in the Department of Government at Harvard University. Beginning in the fall of 2025, I will be a Postdoctoral Visiting Fellow at the University of Notre Dame's <a href="https://kellogg.nd.edu/" target="_blank">Kellogg Institute for International Studies</a>. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
+I am Ph.D. candidate in the <a href="https://www.gov.harvard.edu/" target="_blank">Department of Government</a> at Harvard University. Beginning in the fall of 2025, I will be a Postdoctoral Visiting Fellow at the University of Notre Dame's <a href="https://kellogg.nd.edu/" target="_blank">Kellogg Institute for International Studies</a>. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
 
 I am a comparativist with a regional focus on Latin America. I study the roots of democratic resilience, backsliding, and breakdown. Much of my work on these issues examines how organized crime and public insecurity undermine democratic institutions. You can read more about my research and publications [here]({{ base_path }}/research). 
 

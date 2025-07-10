@@ -39,11 +39,10 @@ My research has been supported by grants and fellowships from the <a href="https
 - “Democracy and Authoritarianism in Central America” (volume co-edited with <a href="https://scholar.harvard.edu/levitsky/home" target="_blank">Steven Levitsky</a>)
 - “Political Establishments and Democracy” (with <a href="https://scholar.harvard.edu/levitsky/home" target="_blank">Steven Levitsky</a>, <a href="https://scholar.harvard.edu/awatanabe/home" target="_blank">Aaron Watanabe</a>, and <a href="https://scholar.harvard.edu/dziblatt/home" target="_blank">Daniel Ziblatt</a>)
 
-## Reports
-- "<a href="{{ base_path }}/files/ebert.pdf" target="_blank">The Far-Right in El Salvador</a>." Prepared for the <a href="https://dc.fes.de/about/friedrich-ebert-stiftung.html" target="_blank">Friedrich Ebert Foundation</a>, 2023.  
-- "<a href="{{ base_path }}/files/laclearn.pdf" target="_blank">Analysis of Trends in Democratic Attitudes: El Salvador Report</a>." Prepared for <a href="https://www.norc.org/" target="_blank">NORC</a> and <a href="https://www.usaid.gov/" target="_blank">USAID</a>, 2023.  
+## Other Writing
+- "<a href="{{ base_path }}/files/ebert.pdf" target="_blank">The Far-Right in El Salvador</a>." Published by the <a href="https://dc.fes.de/about/friedrich-ebert-stiftung.html" target="_blank">Friedrich Ebert Foundation</a>, 2023.  
+- "<a href="{{ base_path }}/files/laclearn.pdf" target="_blank">Analysis of Trends in Democratic Attitudes: El Salvador Report</a>." Published by <a href="https://www.norc.org/" target="_blank">NORC at the University of Chicago</a>.
 - “Political Institutions in El Salvador, 2014–Present.” Prepared for <a href="https://www.worldbank.org/en/home" target="_blank">The World Bank</a>, 2021. Available upon request.
-
 
 
 

@@ -10,7 +10,8 @@ I have taught courses in comparative politics, mixed methods, and formal theory.
 
 ## Courses in Comparative Politics
 - Comparative Politics in Central America (Lead Instructor): <a href="{{ base_path }}/files/cap_syllabus.pdf" target="_blank">Syllabus</a>  
-- The Politics of Organized Crime (Lead Instructor): <a href="{{ base_path }}/files/oc_syllabus.pdf" target="_blank">Syllabus</a>    
+- The Politics of Organized Crime (Lead Instructor): <a href="{{ base_path }}/files/oc_syllabus.pdf" target="_blank">Syllabus</a>
+- The Rise--And Fall?--of Democracy (Lead Instructor)    
 - Authoritarianism (Head Teaching Fellow)  
 - Comparative Politics in Latin America (Head Teaching Fellow)  
 - Foundations of Comparative Politics (Head Teaching Fellow)

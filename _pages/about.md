@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am an incoming Postdoctoral Visiting Fellow at the University of Notre Dame's <a href="https://kellogg.nd.edu/" target="_blank">Kellogg Institute for International Studies</a>. I received my Ph.D. in Political Science from <a href="https://www.gov.harvard.edu/" target="_blank">Harvard University</a> in 2025. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
+I am a Postdoctoral Visiting Fellow at the University of Notre Dame's <a href="https://kellogg.nd.edu/" target="_blank">Kellogg Institute for International Studies</a>. I received my Ph.D. in Political Science from <a href="https://www.gov.harvard.edu/" target="_blank">Harvard University</a> in 2025. You can find a copy of my CV <a href="{{ base_path }}/files/mms_cv.pdf" target="_blank">here</a>.
 
 I am a comparativist with a regional focus on Latin America. I study the roots of democratic resilience, backsliding, and breakdown. Much of my work on these issues examines how organized crime and public insecurity undermine democratic institutions. I have conducted extensive fieldwork in El Salvador, Guatemala, and Mexico. You can read more about my research and publications [here]({{ base_path }}/research). 
 

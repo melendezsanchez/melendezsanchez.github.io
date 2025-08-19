@@ -25,7 +25,7 @@ author:
   name             : "Manuel Meléndez-Sánchez"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Political Science"
-  location         : "South Bend, IN"
+  #location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
   email            : "mmelende@nd.edu" 

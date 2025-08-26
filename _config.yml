@@ -21,7 +21,7 @@ repository               : "melendezsanchez/melendezsanchez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hshot_3.jpg"
+  avatar           : "hshot_3.png"
   name             : "Manuel Meléndez-Sánchez"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Political Science"
